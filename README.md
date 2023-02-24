@@ -120,16 +120,17 @@ node index.js
 
   # This project has been deployed to GitHub, here is the link:
 
-  * 
+  * https://github.com/wento777/Team-Profile-Generator-OOP
   
   # Project recording link:
 
   * https://drive.google.com/file/d/1lHDnNxX2AgvNbnWM3A0bNr4veeG4UCq7/view
   
   
-  # Sample of README file link:
+  # Team-Profile-Generator-OOP Screenshots
 
-  * 
+  ![Screenshot (5)](https://user-images.githubusercontent.com/70625665/221138231-9bb82546-2d1e-4f04-8c08-42be9fe8dc79.png)
+
 
 
 ## Summary
